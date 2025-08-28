@@ -1,0 +1,10 @@
+city,city_ibge_code,date,epidemiological_week,estimated_population,estimated_population_2019,is_last,is_repeated,last_available_confirmed,last_available_confirmed_per_100k_inhabitants,last_available_date,last_available_death_rate,last_available_deaths,order_for_place,place_type,state,new_confirmed,new_deaths
+Rio Branco,1200401,2020-03-17,202012,413418,407319,False,False,3,0.72566,2020-03-17,0.0000,0,1,city,AC,3,0
+,12,2020-03-17,202012,894470,881935,False,False,3,0.33539,2020-03-17,0.0000,0,1,state,AC,3,0
+Rio Branco,1200401,2020-03-18,202012,413418,407319,False,False,3,0.72566,2020-03-18,0.0000,0,2,city,AC,0,0
+,12,2020-03-18,202012,894470,881935,False,False,3,0.33539,2020-03-18,0.0000,0,2,state,AC,0,0
+Rio Branco,1200401,2020-03-19,202012,413418,407319,False,False,4,0.96754,2020-03-19,0.0000,0,3,city,AC,1,0
+,12,2020-03-19,202012,894470,881935,False,False,4,0.44719,2020-03-19,0.0000,0,3,state,AC,1,0
+Rio Branco,1200401,2020-03-20,202012,413418,407319,False,False,7,1.69320,2020-03-20,0.0000,0,4,city,AC,3,0
+,12,2020-03-20,202012,894470,881935,False,False,7,0.78259,2020-03-20,0.0000,0,4,state,AC,3,0
+Rio Branco,1200401,2020-03-21,202012,413418,407319,False,False,11,2.66075,2020-03-21,0.0000,0,5,city,AC,4,0
