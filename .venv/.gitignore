@@ -1,12 +1,41 @@
+# =======================
 # Python
+# =======================
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.DS_Store
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
 
+# =======================
 # Virtual environment
+# =======================
 .venv/
+env/
+venv/
+ENV/
+ENV.bak/
 
+# =======================
 # VS Code
+# =======================
 .vscode/
+*.code-workspace
+
+
+
+# =======================
+# Sistema operacional
+# =======================
+.DS_Store
+Thumbs.db
+
+# =======================
+# Outros
+# =======================
+*.swp
